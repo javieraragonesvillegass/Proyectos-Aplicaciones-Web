@@ -5,6 +5,7 @@ header, nav, footer
     padding: 15px;
     text-align: center;
 }
+/* Estilos para el contenido principal*/
 @media (max-width: 600px)
 {
     nav ul {
